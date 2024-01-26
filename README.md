@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Frameworks & Courses**
 
-- 📫 How to reach me **omgitsverb@gmail.com**
-
 - ⚡ Fun fact **I'm the best gamesite maker in my school.**
 
 <h3 align="left">Connect with me:</h3>
